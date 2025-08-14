@@ -1,7 +1,6 @@
 ## About
 
-🧑‍💻 I'm a university student.<br>
-🌱 I’m currently learning robotics and control engineering.
+🧑‍💻 I'm a university student. I’m currently learning robotics and control engineering.
 
 ## Skills
 ### Language
