@@ -1,16 +1,26 @@
-## Hi there 👋
+## About
 
-<!--
-**Kengokuma/Kengokuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a university student.<br>
+🌱 I’m currently learning robotics and control engineering.
 
-Here are some ideas to get you started:
+## Skills
+### Language
+<br /><img src="https://skillicons.dev/icons?i=c,cpp,python" /> <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+<br /><img src="https://skillicons.dev/icons?i=arduino,ros,github,git,ubuntu" /> <br />
+
+### CAD
+- Fusion360
+- KiCAD
+  
+## History
+### 2019~2024  Robocup Junior Resuce
+- Remember
+  - Hardware
+  - Electric Circuit
+  - Embedded Software
+### 2024~ NHK Robocon
+- Tsukuba Robot Circle
+  - ROS2
+  -  Embedded Software
