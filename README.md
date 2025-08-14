@@ -22,5 +22,5 @@
   - Embedded Software
 ### 2024~ NHK Robocon
 - Tsukuba Robot Circle
-  - ROS2
-  -  Embedded Software
+  - ROS 2
+  - Embedded Software
