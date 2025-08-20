@@ -2,16 +2,7 @@
 
 🧑‍💻 I'm a university student. I’m currently learning robotics and control engineering.
 
-## Skills
-### Language
-<br /><img src="https://skillicons.dev/icons?i=c,cpp,python" /> <br />
-
-### Tools
-<br /><img src="https://skillicons.dev/icons?i=arduino,ros,github,git,ubuntu" /> <br />
-
-### CAD
-- Fusion360
-- KiCAD
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kengokuma&layout=compact&hide=Assembly)
   
 ## History
 ### 2019~2024  Robocup Junior Resuce
