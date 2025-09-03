@@ -14,3 +14,8 @@
 - Tsukuba Robot Circle
   - ROS 2
   - Embedded Software
+### 2025~ Rover Challenge
+- Tsukuba Rover Team
+  - ROS 2
+  - Embedded Software
+  
