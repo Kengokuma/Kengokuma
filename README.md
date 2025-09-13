@@ -1,7 +1,4 @@
-## About
-
-🧑‍💻 I'm a university student. I’m currently learning robotics and control engineering.
-
+## Kengokuma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kengokuma&layout=compact&hide=Assembly)
   
 ## History
